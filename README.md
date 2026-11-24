@@ -3,8 +3,8 @@
 Pacote de replicação do Trabalho de Conclusão de Curso **"Tendências e desafios de
 infraestrutura na era dos aplicativos híbridos"**.
 
-Igor Candido Bartaquini · Orientador: Prof. Diogo S. Martins
-Especialização em Tecnologias e Sistemas de Informação — UFABC, 2026
+Igor · Orientador: Prof. Diogo.
+POS - TSI — UFABC, 2026
 
 ---
 
