@@ -1,0 +1,16 @@
+﻿run_id=outlook_webview2_C1_win_06
+app=outlook
+camada=webview2
+cenario=C1
+so=Windows 11
+so_build=26200
+processos_alvo=olk,msedgewebview2
+filtro_linha_comando=Olk
+processos_encontrados=8
+duracao_s=600
+inicio=2026-10-08T15:13:49.6750131-03:00
+maquina=MAQUINA-01-WIN
+cpu=Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+ram_total_mb=16250
+fim=2026-10-08T15:23:56.6288238-03:00
+amostras_zeradas=0

@@ -1,0 +1,12 @@
+run_id=discord_electron_C1_linux_04
+app=discord
+camada=electron
+cenario=C1
+so=Ubuntu 26.04.1 LTS
+kernel=7.0.0-34-generic
+processos_alvo=Discord
+inicio=2026-10-04T19:10:25-03:00
+maquina=MAQUINA-01-LINUX
+cpu=Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+ram_total_mb=15342
+fim=2026-10-04T19:20:40-03:00

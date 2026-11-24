@@ -1,0 +1,12 @@
+run_id=discord_navegador_C1_linux_06
+app=discord
+camada=navegador
+cenario=C1
+so=Ubuntu 26.04.1 LTS
+kernel=7.0.0-34-generic
+processos_alvo=chrome
+inicio=2026-10-04T17:10:20-03:00
+maquina=MAQUINA-01-LINUX
+cpu=Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+ram_total_mb=15342
+fim=2026-10-04T17:20:35-03:00

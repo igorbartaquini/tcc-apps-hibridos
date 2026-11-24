@@ -1,0 +1,601 @@
+[1/24] navegador rep 03  14:29
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 713MB -> discord_navegador_C1_linux_03
+Processos encontrados: 15
+  30s - 15 processos - 727 MB
+  60s - 15 processos - 727 MB
+  90s - 15 processos - 711 MB
+  120s - 15 processos - 711 MB
+  150s - 15 processos - 710 MB
+  180s - 14 processos - 702 MB
+  210s - 14 processos - 703 MB
+  240s - 14 processos - 704 MB
+  270s - 14 processos - 704 MB
+  300s - 14 processos - 703 MB
+  330s - 14 processos - 703 MB
+  360s - 14 processos - 703 MB
+  390s - 14 processos - 703 MB
+  420s - 14 processos - 703 MB
+  450s - 14 processos - 703 MB
+  480s - 14 processos - 707 MB
+  510s - 14 processos - 705 MB
+  540s - 14 processos - 705 MB
+  570s - 14 processos - 704 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_03.csv
+  intervalo de 2 min
+[2/24] electron rep 05  14:42
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 615MB -> discord_electron_C1_linux_05
+Processos encontrados: 8
+  30s - 8 processos - 600 MB
+  60s - 8 processos - 600 MB
+  90s - 8 processos - 600 MB
+  120s - 8 processos - 601 MB
+  150s - 8 processos - 601 MB
+  180s - 8 processos - 602 MB
+  210s - 8 processos - 603 MB
+  240s - 8 processos - 604 MB
+  270s - 8 processos - 603 MB
+  300s - 8 processos - 603 MB
+  330s - 8 processos - 603 MB
+  360s - 8 processos - 604 MB
+  390s - 8 processos - 604 MB
+  420s - 8 processos - 604 MB
+  450s - 8 processos - 605 MB
+  480s - 8 processos - 605 MB
+  510s - 8 processos - 606 MB
+  540s - 8 processos - 610 MB
+  570s - 8 processos - 608 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_05.csv
+  intervalo de 2 min
+[3/24] electron rep 08  14:55
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 606MB -> discord_electron_C1_linux_08
+Processos encontrados: 8
+  30s - 8 processos - 601 MB
+  60s - 8 processos - 601 MB
+  90s - 8 processos - 601 MB
+  120s - 8 processos - 602 MB
+  150s - 8 processos - 602 MB
+  180s - 8 processos - 602 MB
+  210s - 8 processos - 603 MB
+  240s - 8 processos - 604 MB
+  270s - 8 processos - 594 MB
+  300s - 8 processos - 595 MB
+  330s - 8 processos - 595 MB
+  360s - 8 processos - 596 MB
+  390s - 8 processos - 596 MB
+  420s - 8 processos - 596 MB
+  450s - 8 processos - 597 MB
+  480s - 8 processos - 597 MB
+  510s - 8 processos - 598 MB
+  540s - 8 processos - 602 MB
+  570s - 8 processos - 600 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_08.csv
+  intervalo de 2 min
+[4/24] electron rep 02  15:09
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 610MB -> discord_electron_C1_linux_02
+Processos encontrados: 8
+  30s - 8 processos - 596 MB
+  60s - 8 processos - 596 MB
+  90s - 8 processos - 596 MB
+  120s - 8 processos - 597 MB
+  150s - 8 processos - 597 MB
+  180s - 8 processos - 598 MB
+  210s - 8 processos - 599 MB
+  240s - 8 processos - 600 MB
+  270s - 8 processos - 600 MB
+  300s - 8 processos - 600 MB
+  330s - 8 processos - 600 MB
+  360s - 8 processos - 601 MB
+  390s - 8 processos - 601 MB
+  420s - 8 processos - 602 MB
+  450s - 8 processos - 603 MB
+  480s - 8 processos - 603 MB
+  510s - 8 processos - 604 MB
+  540s - 8 processos - 607 MB
+  570s - 8 processos - 606 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_02.csv
+  intervalo de 2 min
+[5/24] electron rep 12  15:22
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 608MB -> discord_electron_C1_linux_12
+Processos encontrados: 8
+  30s - 8 processos - 593 MB
+  60s - 8 processos - 593 MB
+  90s - 8 processos - 593 MB
+  120s - 8 processos - 593 MB
+  150s - 8 processos - 594 MB
+  180s - 8 processos - 594 MB
+  210s - 8 processos - 595 MB
+  240s - 8 processos - 596 MB
+  270s - 8 processos - 596 MB
+  300s - 8 processos - 597 MB
+  330s - 8 processos - 597 MB
+  360s - 8 processos - 597 MB
+  390s - 8 processos - 598 MB
+  420s - 8 processos - 598 MB
+  450s - 8 processos - 598 MB
+  480s - 8 processos - 598 MB
+  510s - 8 processos - 599 MB
+  540s - 8 processos - 603 MB
+  570s - 8 processos - 602 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_12.csv
+  intervalo de 2 min
+[6/24] electron rep 10  15:35
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 602MB -> discord_electron_C1_linux_10
+Processos encontrados: 8
+  30s - 8 processos - 590 MB
+  60s - 8 processos - 590 MB
+  90s - 8 processos - 590 MB
+  120s - 8 processos - 591 MB
+  150s - 8 processos - 592 MB
+  180s - 8 processos - 592 MB
+  210s - 8 processos - 593 MB
+  240s - 8 processos - 594 MB
+  270s - 8 processos - 594 MB
+  300s - 8 processos - 595 MB
+  330s - 8 processos - 595 MB
+  360s - 8 processos - 596 MB
+  390s - 8 processos - 596 MB
+  420s - 8 processos - 597 MB
+  450s - 8 processos - 597 MB
+  480s - 8 processos - 597 MB
+  510s - 8 processos - 598 MB
+  540s - 8 processos - 601 MB
+  570s - 8 processos - 600 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_10.csv
+  intervalo de 2 min
+[7/24] electron rep 11  15:49
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 607MB -> discord_electron_C1_linux_11
+Processos encontrados: 8
+  30s - 8 processos - 593 MB
+  60s - 8 processos - 592 MB
+  90s - 8 processos - 593 MB
+  120s - 8 processos - 593 MB
+  150s - 8 processos - 593 MB
+  180s - 8 processos - 594 MB
+  210s - 8 processos - 595 MB
+  240s - 8 processos - 596 MB
+  270s - 8 processos - 596 MB
+  300s - 8 processos - 596 MB
+  330s - 8 processos - 596 MB
+  360s - 8 processos - 597 MB
+  390s - 8 processos - 598 MB
+  420s - 8 processos - 598 MB
+  450s - 8 processos - 598 MB
+  480s - 8 processos - 598 MB
+  510s - 8 processos - 599 MB
+  540s - 8 processos - 610 MB
+  570s - 8 processos - 605 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_11.csv
+  intervalo de 2 min
+[8/24] electron rep 07  16:02
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 606MB -> discord_electron_C1_linux_07
+Processos encontrados: 8
+  30s - 8 processos - 600 MB
+  60s - 8 processos - 601 MB
+  90s - 8 processos - 601 MB
+  120s - 8 processos - 602 MB
+  150s - 8 processos - 602 MB
+  180s - 8 processos - 602 MB
+  210s - 8 processos - 603 MB
+  240s - 8 processos - 604 MB
+  270s - 8 processos - 595 MB
+  300s - 8 processos - 595 MB
+  330s - 8 processos - 595 MB
+  360s - 8 processos - 596 MB
+  390s - 8 processos - 596 MB
+  420s - 8 processos - 597 MB
+  450s - 8 processos - 598 MB
+  480s - 8 processos - 598 MB
+  510s - 8 processos - 599 MB
+  540s - 8 processos - 607 MB
+  570s - 8 processos - 604 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_07.csv
+  intervalo de 2 min
+[9/24] navegador rep 04  16:15
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 706MB -> discord_navegador_C1_linux_04
+Processos encontrados: 15
+  30s - 15 processos - 709 MB
+  60s - 15 processos - 710 MB
+  90s - 15 processos - 710 MB
+  120s - 15 processos - 711 MB
+  150s - 15 processos - 711 MB
+  180s - 14 processos - 704 MB
+  210s - 14 processos - 705 MB
+  240s - 14 processos - 690 MB
+  270s - 14 processos - 690 MB
+  300s - 14 processos - 690 MB
+  330s - 14 processos - 690 MB
+  360s - 14 processos - 691 MB
+  390s - 14 processos - 692 MB
+  420s - 14 processos - 692 MB
+  450s - 14 processos - 692 MB
+  480s - 14 processos - 693 MB
+  510s - 14 processos - 692 MB
+  540s - 14 processos - 694 MB
+  570s - 14 processos - 696 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_04.csv
+  intervalo de 2 min
+[10/24] navegador rep 08  16:29
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 709MB -> discord_navegador_C1_linux_08
+Processos encontrados: 15
+  30s - 15 processos - 711 MB
+  60s - 15 processos - 712 MB
+  90s - 15 processos - 711 MB
+  120s - 15 processos - 712 MB
+  150s - 15 processos - 712 MB
+  180s - 14 processos - 706 MB
+  210s - 14 processos - 709 MB
+  240s - 14 processos - 710 MB
+  270s - 14 processos - 709 MB
+  300s - 14 processos - 710 MB
+  330s - 14 processos - 710 MB
+  360s - 14 processos - 710 MB
+  390s - 14 processos - 711 MB
+  420s - 14 processos - 711 MB
+  450s - 14 processos - 711 MB
+  480s - 14 processos - 712 MB
+  510s - 14 processos - 711 MB
+  540s - 14 processos - 712 MB
+  570s - 14 processos - 715 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_08.csv
+  intervalo de 2 min
+[11/24] electron rep 03  16:42
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 604MB -> discord_electron_C1_linux_03
+Processos encontrados: 8
+  30s - 8 processos - 590 MB
+  60s - 8 processos - 591 MB
+  90s - 8 processos - 591 MB
+  120s - 8 processos - 592 MB
+  150s - 8 processos - 592 MB
+  180s - 8 processos - 592 MB
+  210s - 8 processos - 593 MB
+  240s - 8 processos - 594 MB
+  270s - 8 processos - 594 MB
+  300s - 8 processos - 594 MB
+  330s - 8 processos - 594 MB
+  360s - 8 processos - 595 MB
+  390s - 8 processos - 595 MB
+  420s - 8 processos - 596 MB
+  450s - 8 processos - 596 MB
+  480s - 8 processos - 596 MB
+  510s - 8 processos - 597 MB
+  540s - 8 processos - 600 MB
+  570s - 8 processos - 599 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_03.csv
+  intervalo de 2 min
+[12/24] electron rep 06  16:55
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 605MB -> discord_electron_C1_linux_06
+Processos encontrados: 8
+  30s - 8 processos - 602 MB
+  60s - 8 processos - 601 MB
+  90s - 8 processos - 602 MB
+  120s - 8 processos - 602 MB
+  150s - 8 processos - 603 MB
+  180s - 8 processos - 603 MB
+  210s - 8 processos - 604 MB
+  240s - 8 processos - 605 MB
+  270s - 8 processos - 595 MB
+  300s - 8 processos - 596 MB
+  330s - 8 processos - 596 MB
+  360s - 8 processos - 597 MB
+  390s - 8 processos - 597 MB
+  420s - 8 processos - 598 MB
+  450s - 8 processos - 598 MB
+  480s - 8 processos - 599 MB
+  510s - 8 processos - 600 MB
+  540s - 8 processos - 603 MB
+  570s - 8 processos - 601 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_06.csv
+  intervalo de 2 min
+[13/24] navegador rep 06  17:09
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 706MB -> discord_navegador_C1_linux_06
+Processos encontrados: 15
+  30s - 15 processos - 708 MB
+  60s - 15 processos - 709 MB
+  90s - 15 processos - 712 MB
+  120s - 15 processos - 697 MB
+  150s - 15 processos - 696 MB
+  180s - 14 processos - 689 MB
+  210s - 14 processos - 690 MB
+  240s - 14 processos - 691 MB
+  270s - 14 processos - 690 MB
+  300s - 14 processos - 691 MB
+  330s - 14 processos - 691 MB
+  360s - 14 processos - 692 MB
+  390s - 14 processos - 693 MB
+  420s - 14 processos - 693 MB
+  450s - 14 processos - 694 MB
+  480s - 14 processos - 694 MB
+  510s - 14 processos - 694 MB
+  540s - 14 processos - 695 MB
+  570s - 14 processos - 697 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_06.csv
+  intervalo de 2 min
+[14/24] navegador rep 01  17:22
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 712MB -> discord_navegador_C1_linux_01
+Processos encontrados: 15
+  30s - 15 processos - 714 MB
+  60s - 15 processos - 715 MB
+  90s - 15 processos - 715 MB
+  120s - 15 processos - 715 MB
+  150s - 15 processos - 716 MB
+  180s - 14 processos - 709 MB
+  210s - 14 processos - 710 MB
+  240s - 14 processos - 712 MB
+  270s - 14 processos - 711 MB
+  300s - 14 processos - 711 MB
+  330s - 14 processos - 711 MB
+  360s - 14 processos - 712 MB
+  390s - 14 processos - 713 MB
+  420s - 14 processos - 713 MB
+  450s - 14 processos - 713 MB
+  480s - 14 processos - 713 MB
+  510s - 14 processos - 713 MB
+  540s - 14 processos - 714 MB
+  570s - 14 processos - 717 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_01.csv
+  intervalo de 2 min
+[15/24] electron rep 09  17:35
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 607MB -> discord_electron_C1_linux_09
+Processos encontrados: 8
+  30s - 8 processos - 592 MB
+  60s - 8 processos - 592 MB
+  90s - 8 processos - 592 MB
+  120s - 8 processos - 592 MB
+  150s - 8 processos - 593 MB
+  180s - 8 processos - 593 MB
+  210s - 8 processos - 593 MB
+  240s - 8 processos - 594 MB
+  270s - 8 processos - 594 MB
+  300s - 8 processos - 594 MB
+  330s - 8 processos - 594 MB
+  360s - 8 processos - 595 MB
+  390s - 8 processos - 595 MB
+  420s - 8 processos - 596 MB
+  450s - 8 processos - 596 MB
+  480s - 8 processos - 596 MB
+  510s - 8 processos - 597 MB
+  540s - 8 processos - 600 MB
+  570s - 8 processos - 600 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_09.csv
+  intervalo de 2 min
+[16/24] navegador rep 02  17:49
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 708MB -> discord_navegador_C1_linux_02
+Processos encontrados: 15
+  30s - 15 processos - 710 MB
+  60s - 15 processos - 711 MB
+  90s - 15 processos - 695 MB
+  120s - 15 processos - 696 MB
+  150s - 15 processos - 696 MB
+  180s - 14 processos - 690 MB
+  210s - 14 processos - 690 MB
+  240s - 14 processos - 692 MB
+  270s - 14 processos - 691 MB
+  300s - 14 processos - 691 MB
+  330s - 14 processos - 692 MB
+  360s - 14 processos - 692 MB
+  390s - 14 processos - 692 MB
+  420s - 14 processos - 692 MB
+  450s - 14 processos - 693 MB
+  480s - 14 processos - 693 MB
+  510s - 14 processos - 693 MB
+  540s - 14 processos - 695 MB
+  570s - 14 processos - 697 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_02.csv
+  intervalo de 2 min
+[17/24] navegador rep 09  18:02
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 709MB -> discord_navegador_C1_linux_09
+Processos encontrados: 15
+  30s - 15 processos - 710 MB
+  60s - 15 processos - 695 MB
+  90s - 15 processos - 695 MB
+  120s - 15 processos - 695 MB
+  150s - 15 processos - 696 MB
+  180s - 14 processos - 689 MB
+  210s - 14 processos - 690 MB
+  240s - 14 processos - 691 MB
+  270s - 14 processos - 690 MB
+  300s - 14 processos - 690 MB
+  330s - 14 processos - 691 MB
+  360s - 14 processos - 691 MB
+  390s - 14 processos - 692 MB
+  420s - 14 processos - 692 MB
+  450s - 14 processos - 693 MB
+  480s - 14 processos - 693 MB
+  510s - 14 processos - 693 MB
+  540s - 14 processos - 694 MB
+  570s - 14 processos - 695 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_09.csv
+  intervalo de 2 min
+[18/24] navegador rep 12  18:15
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 710MB -> discord_navegador_C1_linux_12
+Processos encontrados: 15
+  30s - 15 processos - 709 MB
+  60s - 15 processos - 709 MB
+  90s - 15 processos - 693 MB
+  120s - 15 processos - 694 MB
+  150s - 15 processos - 694 MB
+  180s - 14 processos - 687 MB
+  210s - 14 processos - 688 MB
+  240s - 14 processos - 689 MB
+  270s - 14 processos - 688 MB
+  300s - 14 processos - 689 MB
+  330s - 14 processos - 689 MB
+  360s - 14 processos - 692 MB
+  390s - 14 processos - 692 MB
+  420s - 14 processos - 693 MB
+  450s - 14 processos - 693 MB
+  480s - 14 processos - 693 MB
+  510s - 14 processos - 693 MB
+  540s - 14 processos - 694 MB
+  570s - 14 processos - 696 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_12.csv
+  intervalo de 2 min
+[19/24] navegador rep 11  18:29
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 709MB -> discord_navegador_C1_linux_11
+Processos encontrados: 15
+  30s - 15 processos - 711 MB
+  60s - 15 processos - 711 MB
+  90s - 15 processos - 711 MB
+  120s - 15 processos - 712 MB
+  150s - 15 processos - 712 MB
+  180s - 14 processos - 705 MB
+  210s - 14 processos - 689 MB
+  240s - 14 processos - 691 MB
+  270s - 14 processos - 690 MB
+  300s - 14 processos - 690 MB
+  330s - 14 processos - 691 MB
+  360s - 14 processos - 691 MB
+  390s - 14 processos - 692 MB
+  420s - 14 processos - 692 MB
+  450s - 14 processos - 692 MB
+  480s - 14 processos - 693 MB
+  510s - 14 processos - 693 MB
+  540s - 14 processos - 694 MB
+  570s - 14 processos - 696 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_11.csv
+  intervalo de 2 min
+[20/24] navegador rep 05  18:42
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 705MB -> discord_navegador_C1_linux_05
+Processos encontrados: 15
+  30s - 15 processos - 692 MB
+  60s - 15 processos - 693 MB
+  90s - 15 processos - 693 MB
+  120s - 15 processos - 694 MB
+  150s - 15 processos - 694 MB
+  180s - 14 processos - 688 MB
+  210s - 14 processos - 689 MB
+  240s - 14 processos - 690 MB
+  270s - 14 processos - 690 MB
+  300s - 14 processos - 690 MB
+  330s - 14 processos - 690 MB
+  360s - 14 processos - 691 MB
+  390s - 14 processos - 691 MB
+  420s - 14 processos - 692 MB
+  450s - 14 processos - 692 MB
+  480s - 14 processos - 692 MB
+  510s - 14 processos - 692 MB
+  540s - 14 processos - 693 MB
+  570s - 14 processos - 695 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_05.csv
+  intervalo de 2 min
+[21/24] navegador rep 10  18:56
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 707MB -> discord_navegador_C1_linux_10
+Processos encontrados: 15
+  30s - 15 processos - 709 MB
+  60s - 15 processos - 709 MB
+  90s - 15 processos - 709 MB
+  120s - 15 processos - 710 MB
+  150s - 15 processos - 710 MB
+  180s - 14 processos - 704 MB
+  210s - 14 processos - 704 MB
+  240s - 14 processos - 706 MB
+  270s - 14 processos - 705 MB
+  300s - 14 processos - 706 MB
+  330s - 14 processos - 706 MB
+  360s - 14 processos - 706 MB
+  390s - 14 processos - 707 MB
+  420s - 14 processos - 708 MB
+  450s - 14 processos - 708 MB
+  480s - 14 processos - 708 MB
+  510s - 14 processos - 709 MB
+  540s - 14 processos - 709 MB
+  570s - 14 processos - 719 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_10.csv
+  intervalo de 2 min
+[22/24] electron rep 04  19:09
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 604MB -> discord_electron_C1_linux_04
+Processos encontrados: 8
+  30s - 8 processos - 600 MB
+  60s - 8 processos - 600 MB
+  90s - 8 processos - 600 MB
+  120s - 8 processos - 601 MB
+  150s - 8 processos - 602 MB
+  180s - 8 processos - 602 MB
+  210s - 8 processos - 603 MB
+  240s - 8 processos - 604 MB
+  270s - 8 processos - 595 MB
+  300s - 8 processos - 596 MB
+  330s - 8 processos - 596 MB
+  360s - 8 processos - 597 MB
+  390s - 8 processos - 597 MB
+  420s - 8 processos - 597 MB
+  450s - 8 processos - 598 MB
+  480s - 8 processos - 598 MB
+  510s - 8 processos - 599 MB
+  540s - 8 processos - 602 MB
+  570s - 8 processos - 600 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_04.csv
+  intervalo de 2 min
+[23/24] navegador rep 07  19:22
+  aguardando 60s para estabilizar...
+  ok: 13 proc, 711MB -> discord_navegador_C1_linux_07
+Processos encontrados: 15
+  30s - 15 processos - 712 MB
+  60s - 15 processos - 696 MB
+  90s - 15 processos - 696 MB
+  120s - 15 processos - 697 MB
+  150s - 15 processos - 697 MB
+  180s - 14 processos - 690 MB
+  210s - 14 processos - 691 MB
+  240s - 14 processos - 692 MB
+  270s - 14 processos - 692 MB
+  300s - 14 processos - 692 MB
+  330s - 14 processos - 693 MB
+  360s - 14 processos - 693 MB
+  390s - 14 processos - 694 MB
+  420s - 14 processos - 694 MB
+  450s - 14 processos - 694 MB
+  480s - 14 processos - 695 MB
+  510s - 14 processos - 695 MB
+  540s - 14 processos - 696 MB
+  570s - 14 processos - 698 MB
+Pronto: /home/usuario/tcc/dados/discord_navegador_C1_linux_07.csv
+  intervalo de 2 min
+[24/24] electron rep 01  19:36
+  aguardando 60s para estabilizar...
+  ok: 8 proc, 608MB -> discord_electron_C1_linux_01
+Processos encontrados: 8
+  30s - 8 processos - 593 MB
+  60s - 8 processos - 593 MB
+  90s - 8 processos - 593 MB
+  120s - 8 processos - 594 MB
+  150s - 8 processos - 594 MB
+  180s - 8 processos - 594 MB
+  210s - 8 processos - 595 MB
+  240s - 8 processos - 596 MB
+  270s - 8 processos - 596 MB
+  300s - 8 processos - 596 MB
+  330s - 8 processos - 596 MB
+  360s - 8 processos - 597 MB
+  390s - 8 processos - 597 MB
+  420s - 8 processos - 598 MB
+  450s - 8 processos - 598 MB
+  480s - 8 processos - 598 MB
+  510s - 8 processos - 600 MB
+  540s - 8 processos - 603 MB
+  570s - 8 processos - 602 MB
+Pronto: /home/usuario/tcc/dados/discord_electron_C1_linux_01.csv
+  intervalo de 2 min
+LOTE CONCLUIDO

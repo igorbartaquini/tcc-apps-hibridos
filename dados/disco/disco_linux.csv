@@ -1,0 +1,10 @@
+alvo,camada,tipo,mb,arquivos,existe,caminho
+chrome,compartilhado,instalado,436.41,255,sim,/opt/google/chrome
+slack_snap_arquivo,electron,instalado,221.18,1,sim,/var/lib/snapd/snaps/slack_260.snap
+slack_snap_montado,electron,instalado,0.00,0,sim,/snap/slack/current
+discord,electron,instalado,4.12,4,sim,/usr/share/discord
+discord_opt,electron,instalado,0,0,nao,/opt/discord
+slack,electron,perfil_cache,639.82,3941,sim,/home/usuario/snap/slack/current/.config/Slack
+slack_alt,electron,perfil_cache,0,0,nao,/home/usuario/.config/Slack
+discord,electron,perfil_cache,648.44,4835,sim,/home/usuario/.config/discord
+chrome_perfil,navegador,perfil_cache,1123.07,6219,sim,/home/usuario/.config/google-chrome/Default

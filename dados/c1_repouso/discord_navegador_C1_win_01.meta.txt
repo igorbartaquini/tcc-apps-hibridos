@@ -1,0 +1,16 @@
+﻿run_id=discord_navegador_C1_win_01
+app=discord
+camada=navegador
+cenario=C1
+so=Windows 11
+so_build=26200
+processos_alvo=chrome
+filtro_linha_comando=
+processos_encontrados=10
+duracao_s=600
+inicio=2026-10-11T13:45:04.4455891-03:00
+maquina=MAQUINA-01-WIN
+cpu=Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+ram_total_mb=16250
+fim=2026-10-11T13:55:15.1558712-03:00
+amostras_zeradas=0
